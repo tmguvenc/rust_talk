@@ -1,5 +1,5 @@
 [package]
-name = "vector_bug"
+name = "sample_1"
 version = "0.1.0"
 authors = ["Turan Murat Güvenç <murat.guvenc@esensi.com.tr>"]
 edition = "2018"
